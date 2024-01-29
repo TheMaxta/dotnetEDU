@@ -16,12 +16,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/maxmahlke/Desktop/dotnetEDU/MyProductApp
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/maxmahlke/Desktop/dotnetEDU/MyProductApp/Views/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maxmahlke/Desktop/dotnetEDU/MyProductApp/Views/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maxmahlke/Desktop/dotnetEDU/MyProductApp/Views/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/maxmahlke/Desktop/dotnetEDU/MyProductApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/maxmahlke/Desktop/dotnetEDU/MyProductApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maxmahlke/Desktop/dotnetEDU/MyProductApp/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/maxmahlke/Desktop/dotnetEDU/MyProductApp/Views/Shared/Error.cshtml]
